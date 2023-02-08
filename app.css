@@ -14,7 +14,12 @@ h1 {
   font-size: large;
 }
 
-#Frem {
-  background-color: rgb(159, 216, 216);
-  
+hr {
+  border-top: 2px solid #111;
+  border-radius: 6px;
+  width: 95%;
+}
+
+#foot {
+  text-align: center;
 }
