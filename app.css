@@ -11,7 +11,7 @@ img {
 
 h1 {
   font-family: "Marck Script", cursive;
-  font-size: xx-large;
+  font-size: 40px;
   text-align: center;
 }
 
@@ -39,7 +39,7 @@ hr {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   width: 100%;
-  grid-gap: 20px;
+  grid-gap: 20px; 
 }
 .indgredienser {
   grid-column: 1/2;
