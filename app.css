@@ -26,8 +26,9 @@ hr {
 
 .container {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   width: 100%;
+  grid-gap: 20px;
 }
 .indgredienser {
   grid-column: 1/2;
@@ -48,4 +49,4 @@ hr {
 .container {
   grid-column: 2/3;
   grid-row: 1;
-  }
+}
