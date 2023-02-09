@@ -9,6 +9,10 @@ img {
   width: auto;
 }
 
+.icons {
+  width: 40px;
+}
+
 h1 {
   font-family: "Marck Script", cursive;
   font-size: 40px;
